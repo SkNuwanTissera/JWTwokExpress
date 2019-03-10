@@ -15,7 +15,7 @@ module.exports = {
             clientSecret: '<>'
         },
         mongodb: {
-            dbURI: 'mongodb://<user>:<pwd>@ds151024.mlab.com:51024/oauth-test'
+            dbURI: 'mongodb://<user>:<pwd>@<>'
         }
 };
 ```
